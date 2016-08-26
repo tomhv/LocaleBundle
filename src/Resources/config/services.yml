@@ -1,0 +1,6 @@
+services:
+    phospr.twig.locale.extension:
+        class: Phospr\LocaleBundle\Twig\Extension\LocaleExtension
+        tags:
+            - { name: twig.extension }
+

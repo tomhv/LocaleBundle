@@ -1,4 +1,4 @@
-
+{
     "name": "phospr/locale-bundle",
     "description": "Symfony integration for the Phospr\Locale Value Object",
     "license": "MIT",
